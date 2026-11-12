@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Saltwater Systems">
+  <defs>
+    <linearGradient id="markFill" x1="16" y1="8" x2="80" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a3a44"/>
+      <stop offset="100%" stop-color="#04151a"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="16" y1="8" x2="80" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7ee0d0"/>
+      <stop offset="55%" stop-color="#1bb8c9"/>
+      <stop offset="100%" stop-color="#0b6e7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="20" fill="#04151a"/>
+  <circle cx="48" cy="48" r="36" fill="url(#markFill)"/>
+  <circle cx="48" cy="48" r="34.4" fill="none" stroke="url(#ring)" stroke-width="2.6"/>
+  <path d="M 17.00 40.83 L 18.55 41.59 L 20.10 42.29 L 21.65 42.91 L 23.20 43.43 L 24.75 43.82 L 26.30 44.08 L 27.85 44.19 L 29.40 44.16 L 30.95 43.98 L 32.50 43.66 L 34.05 43.21 L 35.60 42.64 L 37.15 41.98 L 38.70 41.25 L 40.25 40.48 L 41.80 39.69 L 43.35 38.91 L 44.90 38.17 L 46.45 37.49 L 48.00 36.91 L 49.55 36.43 L 51.10 36.08 L 52.65 35.87 L 54.20 35.80 L 55.75 35.88 L 57.30 36.11 L 58.85 36.48 L 60.40 36.97 L 61.95 37.57 L 63.50 38.26 L 65.05 39.00 L 66.60 39.78 L 68.15 40.57 L 69.70 41.34 L 71.25 42.07 L 72.80 42.71 L 74.35 43.27 L 75.90 43.70 L 77.45 44.01 L 79.00 44.17" fill="none" stroke="#7ee0d0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 17.00 54.59 L 18.55 55.15 L 20.10 55.59 L 21.65 55.87 L 23.20 55.99 L 24.75 55.96 L 26.30 55.76 L 27.85 55.40 L 29.40 54.91 L 30.95 54.28 L 32.50 53.55 L 34.05 52.74 L 35.60 51.87 L 37.15 50.97 L 38.70 50.07 L 40.25 49.20 L 41.80 48.39 L 43.35 47.67 L 44.90 47.05 L 46.45 46.57 L 48.00 46.22 L 49.55 46.04 L 51.10 46.01 L 52.65 46.15 L 54.20 46.44 L 55.75 46.88 L 57.30 47.46 L 58.85 48.15 L 60.40 48.94 L 61.95 49.79 L 63.50 50.68 L 65.05 51.58 L 66.60 52.46 L 68.15 53.30 L 69.70 54.06 L 71.25 54.72 L 72.80 55.26 L 74.35 55.66 L 75.90 55.91 L 77.45 56.00 L 79.00 55.93" fill="none" stroke="#1bb8c9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M 17.00 62.00 L 18.55 62.78 L 20.10 63.53 L 21.65 64.22 L 23.20 64.83 L 24.75 65.33 L 26.30 65.70 L 27.85 65.92 L 29.40 66.00 L 30.95 65.92 L 32.50 65.70 L 34.05 65.33 L 35.60 64.83 L 37.15 64.22 L 38.70 63.53 L 40.25 62.78 L 41.80 62.00 L 43.35 61.22 L 44.90 60.47 L 46.45 59.78 L 48.00 59.17 L 49.55 58.67 L 51.10 58.30 L 52.65 58.08 L 54.20 58.00 L 55.75 58.08 L 57.30 58.30 L 58.85 58.67 L 60.40 59.17 L 61.95 59.78 L 63.50 60.47 L 65.05 61.22 L 66.60 62.00 L 68.15 62.78 L 69.70 63.53 L 71.25 64.22 L 72.80 64.83 L 74.35 65.33 L 75.90 65.70 L 77.45 65.92 L 79.00 66.00" fill="none" stroke="#0e7f8a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="62" cy="32" r="3.2" fill="#9aefe4" opacity="0.9"/><circle cx="68" cy="40" r="1.8" fill="#7ee0d0" opacity="0.9"/><circle cx="32" cy="42" r="2.2" fill="#7ee0d0" opacity="0.9"/>
+</svg>
