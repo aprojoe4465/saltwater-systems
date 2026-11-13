@@ -3,10 +3,10 @@ export const site = {
   legalName: "SNAPPER MARINE, LLC",
   shortName: "Saltwater Systems",
   tagline: "Aquarium service, installation, and maintenance — saltwater and freshwater",
-  domain: "saltwatersystems.net",
+  domain: "saltwatersystem.net",
   // Temporary public contact address. Change here (and DEFAULT_NOTIFY_TO in
   // app/api/book/route.ts) if the mailbox should be different once it is live.
-  email: "jbarnes@saltwatersystems.net",
+  email: "jbarnes@saltwatersystem.net",
   serviceAreaSummary: "Broward, Palm Beach, Martin, and St. Lucie counties (Florida)",
   serviceAreas: [
     { name: "Broward County", note: "Florida service area" },

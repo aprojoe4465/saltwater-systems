@@ -2,7 +2,7 @@
 
 Aquarium service, installation, and maintenance site for saltwater and freshwater tanks. Saltwater Systems is a fictitious name of Snapper Marine, LLC.
 
-Intended domain: [saltwatersystems.net](https://saltwatersystems.net). This repo is deployed to Vercel on a `vercel.app` URL until DNS is pointed at the project. Do not change DNS from this repository.
+Intended domain: [saltwatersystem.net](https://saltwatersystem.net). This repo is deployed to Vercel on a `vercel.app` URL until DNS is pointed at the project. Do not change DNS from this repository.
 
 ## Stack
 
@@ -24,11 +24,11 @@ npm run dev
 | --- | --- |
 | `RESEND_API_KEY` | Resend API key. Emails are skipped if unset. |
 | `RESEND_FROM` | From address. Must be on a domain verified in Resend. |
-| `BOOKING_NOTIFY_TO` | Inbox for new requests. Defaults to `jbarnes@saltwatersystems.net`. |
+| `BOOKING_NOTIFY_TO` | Inbox for new requests. Defaults to `jbarnes@saltwatersystem.net`. |
 | `BOOKING_ALERT_WEBHOOK_URL` | Optional POST target for text alerts. Skipped if unset. |
 | `BOOKING_ALERT_WEBHOOK_AUTH` | Full `Authorization` header value sent to the webhook. |
 
-The notify-address default lives in `app/api/book/route.ts` as `DEFAULT_NOTIFY_TO`. The mailbox is not set up yet, so test emails will bounce until it exists. Until `saltwatersystems.net` is verified in Resend, set `RESEND_FROM` to a sender on an already verified domain.
+The notify-address default lives in `app/api/book/route.ts` as `DEFAULT_NOTIFY_TO`. The mailbox is not set up yet, so test emails will bounce until it exists. Until `saltwatersystem.net` is verified in Resend, set `RESEND_FROM` to a sender on an already verified domain.
 
 ## Booking flow
 

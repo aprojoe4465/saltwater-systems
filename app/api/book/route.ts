@@ -170,8 +170,8 @@ function bookingEmailHtml(entry: BookingRequest): string {
 
 // Change this address if the notify mailbox should be different, or override
 // it with the BOOKING_NOTIFY_TO environment variable.
-const DEFAULT_NOTIFY_TO = "jbarnes@saltwatersystems.net";
-const DEFAULT_FROM = "Saltwater Systems <bookings@saltwatersystems.net>";
+const DEFAULT_NOTIFY_TO = "jbarnes@saltwatersystem.net";
+const DEFAULT_FROM = "Saltwater Systems <bookings@saltwatersystem.net>";
 
 function notifyToAddress(): string {
   return (process.env.BOOKING_NOTIFY_TO || DEFAULT_NOTIFY_TO).trim();
